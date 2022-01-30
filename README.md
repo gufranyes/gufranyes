@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gufran</h1>
 <h3 align="center">A passionate computer engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Syber Security**
+- 🔭 I’m currently working on **Cyber Security**
 
 - 🌱 I’m currently learning **Game Development**
 
