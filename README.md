@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gufran</h1>
 <h3 align="center">A passionate computer engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Cyber Security**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Fundamentals of Network Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gufranyes](https://github.com/gufranyes)
 
-- 💬 Ask me about **C++, Golang, Rust**
+- 💬 Ask me about **C++, Golang, C#**
 
 - 📫 How to reach me **gufran.yesilyurt@ozu.edu.tr**
 
