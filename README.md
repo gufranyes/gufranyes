@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Fundamentals of Network Technologies**
+- 🌱 I’m currently learning **LLMOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gufranyes](https://github.com/gufranyes)
 
-- 💬 Ask me about **C++, Golang, C#**
+- 💬 Ask me about **Python, Golang, DevOps**
 
 - 📫 How to reach me **gufran.yesilyurt@ozu.edu.tr**
 
